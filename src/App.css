@@ -1,0 +1,16 @@
+.clean {
+  text-align: center;
+  color: red;
+}
+
+img {
+  height: 230px;
+}
+
+.all {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  background-color: silver;
+  padding: 20px;
+}
